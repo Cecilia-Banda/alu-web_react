@@ -1,1 +1,1 @@
-This will contain data in web~~pack
+This will contain data in webpack
